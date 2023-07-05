@@ -1,0 +1,1 @@
+frase_inicial = "Hello, World!"
