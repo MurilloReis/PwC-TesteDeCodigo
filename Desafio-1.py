@@ -1,0 +1,1 @@
+frase = "hello, World! OpenAI is amazing."
