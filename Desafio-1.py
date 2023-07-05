@@ -1,1 +1,1 @@
-frase = "hello, World! OpenAI is amazing."
+frase = "hello, World! OpenAI is amazing.".split(" ")
