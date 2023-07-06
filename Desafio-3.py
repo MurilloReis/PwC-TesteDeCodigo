@@ -12,3 +12,8 @@ def buscar_palindromo(string):
                     maior_palindromo = substring
 
     return maior_palindromo
+
+string = "babad"
+maior_palindromo = buscar_palindromo(string)
+
+print("Maior palíndromo:", maior_palindromo)
