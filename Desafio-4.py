@@ -11,3 +11,5 @@ for letra in frase:
 
     if letra in ["?", "."]:
         deve_ser_maiusculo = True
+
+print(nova_frase)
