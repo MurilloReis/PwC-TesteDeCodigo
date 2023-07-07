@@ -4,3 +4,5 @@ def verificar_anagrama_de_palindromo(palavra):
     lista_simetria_caracteres = []
     for caracter in caracteres_unicos:
         lista_simetria_caracteres.append(palavra.count(caracter) % 2)
+    
+    return "true" if lista_simetria_caracteres.count(1) <= 1 else "false"
